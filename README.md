@@ -8,7 +8,7 @@ Content Image
 ![Alt text](/images/content_image.jpg)
 
 Style Image
-![Alt text]/images/style_image.jpg)
+![Alt text](/images/style_image.jpg)
 
 Output Image
 ![Alt text](/images/imgb.jpg)
