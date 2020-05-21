@@ -4,15 +4,15 @@ Neural style transfer is an optimization technique used to take three images, a 
 
 ## Visuals
 
-Content Image
+*Content Image*
 
 ![](/images/content_image.jpg)
 
-Style Image
+*Style Image*
 
 ![](/images/style_image.jpg)
 
-Output Image
+*Output Image*
 
 ![](/images/imgb.jpg)
 
