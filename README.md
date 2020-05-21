@@ -18,10 +18,9 @@ Neural style transfer is an optimization technique used to take three images, a 
 
 ## About
 
-* Built several different loss functions and used backpropagation to transform the input image in order to minimize the losses.
+* Implemented content loss and style loss functions and used backpropagation to transform the input image in order to minimize these losses.
 * In order to do this, loaded a pretrained model and used its learned feature maps to describe the content and style representation of the images.
-* Main loss functions primarily compute the distance in terms of these different representations.
+* Loss functions primarily compute the distance in terms of these different representations.
 * Implemented this with a custom model.
-* Built the custom model with the Functional API.
 * Iteratively updated the image by applying the optimizers update rules. 
 * The optimizer minimized the given losses with respect to the input image.
