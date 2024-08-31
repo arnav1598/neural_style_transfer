@@ -1,8 +1,8 @@
-## Neural Style Transfer
+# Neural Style Transfer
 
 Neural style transfer is an optimization technique used to take three images, a content image, a style reference image (such as an artwork by a famous painter), and the input image (initialized with the content image) you want to style — and blend them together such that the input image is transformed to look like the content image, but “painted” in the style of the style image.
 
-## Visuals
+# Visuals
 
 *Content Image*
 
@@ -16,12 +16,12 @@ Neural style transfer is an optimization technique used to take three images, a 
 
 ![](/images/imgb.jpg)
 
-## About
+# About
 
-# Objective:
+## Objective:
 The goal of this project is to implement neural style transfer, a technique that blends the content of one image with the artistic style of another. The final output is a transformed image that retains the content of a content image but is "painted" in the style of a reference style image.
 
-# Approach:
+## Approach:
 
 1. Loss Functions:
 
