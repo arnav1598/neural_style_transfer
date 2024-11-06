@@ -40,3 +40,7 @@ Employed backpropagation to iteratively update the generated image in order to m
 
 Developed a custom model for handling the optimization process, integrating loss functions and image updates to achieve the desired stylistic transformation.
 Outcome: The project successfully demonstrates the ability to transform an input image into a stylized version that reflects the artistic style of a reference image while preserving the content of the original image. The approach effectively balances content and style through iterative optimization, producing visually compelling results.
+
+### References:
+
+[Neural Style Transfer: Creating Art with Deep Learning using tf.keras and eager execution](https://blog.tensorflow.org/2018/08/neural-style-transfer-creating-art-with-deep-learning.html)
