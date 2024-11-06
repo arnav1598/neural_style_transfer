@@ -18,10 +18,10 @@ Neural style transfer is an optimization technique used to take three images, a 
 
 # About
 
-## Objective:
+### Objective:
 The goal of this project is to implement neural style transfer, a technique that blends the content of one image with the artistic style of another. The final output is a transformed image that retains the content of a content image but is "painted" in the style of a reference style image.
 
-## Approach:
+### Approach:
 
 1. Loss Functions:
 
